@@ -13,6 +13,10 @@ export default {
         "neu-smokey-grey": "hsl(0, 1%, 44%) ",
         "neu-off-black": "hsl(0, 0%, 8%)",
       },
+
+      screens: {
+        mobile: "400px",
+      },
     },
   },
   plugins: [],
